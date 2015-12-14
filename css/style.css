@@ -3,6 +3,7 @@
     text-decoration: none;
     text-align: center;
     margin: 25px 0;
+    padding-left: 200px;
 }
 
 .redirect a
@@ -38,6 +39,11 @@ th img
     padding: 0 25px;
 }
 
+th img:hover
+{
+    transform: rotate(360);
+}
+
 content table
 {
     margin-left: auto;
@@ -48,7 +54,7 @@ footer
     margin-top: 25px;
     display: block;
     bottom: 0;
-    width: 100%;
+    padding-left: 200px;
 }
 
 footer p
@@ -68,6 +74,15 @@ footer h3
     color: #E30047;
     line-height: 0;
 }
+
+#logo h3
+{
+    text-align: center;
+    font-size: 24px;
+    color: #E30047;
+    line-height: 0;
+}
+
 .center
 {
     margin: 0px auto;
@@ -81,11 +96,125 @@ body
     font-family: 'Electrolize';
     margin: 0;
 }
+#page
+{
+    width: 100%;
+    position: relative;
+}
 
 content
 {
     background-color: #b8b8b8;
-    width: 100%;
     display: block;
     padding-bottom: 10px;
+    padding-left: 200px;
+}
+
+#navbar
+{
+    position: fixed;
+    height: 100%;
+    left: 0;
+    width: 200px;
+    background-color : #b8b8b8;
+    content: "";
+    top: 0;
+    z-index: 9999999999999999999999999999999999999999;
+    border-right: 2px solid black;
+}
+
+#logo img
+{
+    max-width: 180px;
+}
+
+#logo
+{
+    margin-top: 20px;
+}
+
+#menu nav
+{
+    list-style-type: none;
+}
+
+#menu li:last-child
+{
+    border: none;
+}
+
+#menu li:hover
+{
+    background-color: rgba(0, 0, 0, 0.25);
+    transition: 0.5s;
+}
+#menu li
+{
+    width: 100%;
+    height: 40px;
+    border-bottom: 1px solid black;
+    text-align: center;
+    list-style-type: none;
+    line-height: 40px;
+    transition: 0.5s;
+}
+
+#menu li a
+{
+    color: black;
+    text-align: center;
+    text-decoration: none;
+}
+
+#menu li a:hover
+{
+    color : green;
+    text-decoration: underline;
+}
+
+#menu h3
+{
+    text-align: center;
+}
+
+
+
+#search h3
+{
+    text-align: center;
+}
+
+#search
+{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+#search li:last-child
+{
+    border: none;
+}
+
+#search li:hover
+{
+    background-color: rgba(0, 0, 0, 0.25);
+    transition: 0.5s;
+}
+#search li
+{
+    width: 100%;
+    height: 40px;
+    border-bottom: 1px solid black;
+    text-align: center;
+    list-style-type: none;
+    line-height: 40px;
+    transition: 0.5s;
+}
+
+#search li a
+{
+    color: black;
+    text-align: center;
+    text-decoration: none;
 }

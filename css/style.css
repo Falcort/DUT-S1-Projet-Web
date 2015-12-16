@@ -91,11 +91,15 @@ footer h3
 
 body
 {
-    overflow: hidden;
     background-color: <white;
     font-family: 'Electrolize';
     margin: 0;
 }
+#p_promo
+{
+    overflow: hidden;
+}
+
 #page
 {
     width: 100%;
@@ -252,6 +256,14 @@ content
     background: white;
     border: 2px solid;
     border-bottom: 1px solid;
+    padding: 5px 0 5px 0;
+    width: 200px
+}
+
+#produit #image th img
+{
+    width: 70%;
+    height: auto;
 }
 
 #produit #image .spacer

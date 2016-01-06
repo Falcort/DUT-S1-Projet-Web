@@ -105,7 +105,15 @@ body
     width: 100%;
     position: relative;
 }
+#stock
+{
+    color: green;
+}
 
+#note span
+{
+    color: yellow;
+}
 content
 {
     background-color: #b8b8b8;
@@ -113,7 +121,10 @@ content
     padding: 10px 0 10px 200px;
     text-align: center;
 }
-
+#prix
+{
+    color: #E30047;
+}
 #navbar
 {
     position: fixed;

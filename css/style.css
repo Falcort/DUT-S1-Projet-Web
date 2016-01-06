@@ -234,6 +234,27 @@ content
     color: white;
 }
 
+#who
+{
+    padding-top: 20px;
+    background-color: #388C3C;
+    display: block;
+    padding-bottom: 10px;
+    text-align: center;
+    padding-left: 200px;
+    color: white;
+}
+#who h1
+{
+    color: #E30047;
+}
+
+#logo
+{
+    max-height: 200px;
+    width: auto;
+}
+
 #sapin
 {
     max-height: 200px;

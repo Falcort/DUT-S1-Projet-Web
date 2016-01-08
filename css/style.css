@@ -100,6 +100,11 @@ body
     overflow: hidden;
 }
 
+#nav
+{
+    margin-left: -40px;
+}
+
 #page
 {
     width: 100%;

@@ -349,3 +349,28 @@ button:hover
     background: #B60039;
     transition: 0.5s;
 }
+
+#panier
+{
+    background: whitesmoke;
+    padding: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#panier img
+{
+    max-height: 100px;
+    width: auto;
+}
+
+#panier th
+{
+    width: 150px;
+    border-bottom: 1px solid black;
+}
+
+#panier #total
+{
+    color : #E30047;
+}

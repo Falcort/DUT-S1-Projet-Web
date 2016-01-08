@@ -141,6 +141,10 @@ content
 {
     color: #E30047;
 }
+a
+{
+    color: inherit;
+}
 #navbar
 {
     position: fixed;

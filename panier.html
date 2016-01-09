@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE html>
 
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<html lang="fr" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
     <link href='https://fonts.googleapis.com/css?family=Electrolize' rel='stylesheet' type='text/css'>
@@ -11,7 +11,7 @@
 </head>
 <body>
     <div id="page">
-        <content id="desc">
+        <section id="desc">
             <h1>Panier</h1>
             <table id="panier">
                 <tr>
@@ -23,7 +23,7 @@
                 </tr>
                 <tr>
                     <th>
-                        <a href="article.html"><img src="./IMG/Consommables/3.jpg" /></a>
+                        <a href="article.html"><img src="./IMG/Consommables/3.jpg" alt="Royal Canin - 15kg"/></a>
                     </th>
                     <th>Royal Canin - 15kg</th>
                     <th>2</th>
@@ -32,7 +32,7 @@
                 </tr>
                 <tr>
                     <th>
-                        <a href="article.html"><img src="./IMG/Consommables/4.jpg" /></a>
+                        <a href="article.html"><img src="./IMG/Consommables/4.jpg" alt="Animalis - 250ml"/></a>
                     </th>
                     <th>Animalis - 250ml</th>
                     <th>1</th>
@@ -41,7 +41,7 @@
                 </tr>
                 <tr>
                     <th>
-                        <a href="article.html"><img src="./IMG/Consommables/1.jpg" /></a>
+                        <a href="article.html"><img src="./IMG/Consommables/1.jpg" alt="Animalis - 2kg"/></a>
                     </th>
                     <th>Animalis - 2kg</th>
                     <th>1</th>
@@ -58,33 +58,33 @@
             </table>
             <br />
             <button  onclick="location.href = 'http://rickrolled.fr/';">Payez Maintenant!</button>
-        </content>
-        <content>
+        </section>
+        <section>
             <h2>Autres produits : </h2>
-            <table id="produit">
-                <tr id="image">
+            <table class="produit">
+                <tr class="image">
                     <th>
-                        <a href="article.html"><img src="./IMG/Consommables/3.jpg" /></a>
+                        <a href="article.html"><img src="./IMG/Consommables/3.jpg" alt="Royal Canin - 15kg"/></a>
                     </th>
                     <th class="spacer"></th>
                     <th>
-                        <a href="article.html"><img src="./IMG/Consommables/2.jpg" /></a>
+                        <a href="article.html"><img src="./IMG/Consommables/2.jpg" alt="Cesar - 4x150g"/></a>
                     </th>
                     <th class="spacer"></th>
                     <th>
-                        <a href="article.html"><img src="./IMG/Consommables/1.jpg" /></a>
+                        <a href="article.html"><img src="./IMG/Consommables/1.jpg" alt="Animalis - 2kg"/></a>
                     </th>
                     <th class="spacer"></th>
                     <th>
-                        <a href="article.html"><img src="./IMG/Consommables/4.jpg" /></a>
+                        <a href="article.html"><img src="./IMG/Consommables/4.jpg" alt="Animalis - 250ml"/></a>
                     </th>
                     <th class="spacer"></th>
                     <th>
-                        <a href="article.html"><img src="./IMG/Consommables/5.jpg" /></a>
+                        <a href="article.html"><img src="./IMG/Consommables/5.jpg" alt="ArguPond - 500ml"/></a>
                     </th>
                     <th class="spacer"></th>
                     <th>
-                        <a href="article.html"><img src="./IMG/Consommables/6.jpg" /></a>
+                        <a href="article.html"><img src="./IMG/Consommables/6.jpg" alt="Vitakraft - 900g"/></a>
                     </th>
                 </tr>
                 <tr>
@@ -132,7 +132,7 @@
                     </th>
                 </tr>
             </table>
-        </content>
+        </section>
         <footer>
             <img class="center" src="./IMG/logo.gif" alt="logo" title="logo" />
             <h3>Animalus</h3>
@@ -168,7 +168,7 @@
             <table>
                 <tr>
                     <th>
-                        <img src="./IMG/panier.png" id="lpanier" />
+                        <img src="./IMG/panier.png" id="lpanier" alt="panier"/>
                     </th>
                     <th>
                         <a href="panier.html" id="plink">Mon panier (3)</a>
@@ -178,7 +178,7 @@
         </div>
         <div id="search">
             <h3>Informations</h3>
-            <div id="nab_bot">
+            <ul id="nab_bot">
                 <li>
                     <a href="who.html">Qui sommes-nous ?</a>
                 </li>
@@ -187,7 +187,7 @@
                         <input type="search" placeholder="Recherche" />
                     </form>
                 </li>
-            </div>
+            </ul>
         </div>
     </div>
 </body>

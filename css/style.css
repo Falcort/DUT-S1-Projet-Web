@@ -39,12 +39,7 @@ th img
     padding: 0 25px;
 }
 
-th img:hover
-{
-    transform: rotate(360);
-}
-
-content table
+section table
 {
     margin-left: auto;
     margin-right: auto;
@@ -91,10 +86,11 @@ footer h3
 
 body
 {
-    background-color: <white;
+    background-color: white;
     font-family: 'Electrolize';
     margin: 0;
 }
+
 #p_promo
 {
     overflow: hidden;
@@ -123,7 +119,7 @@ body
 {
     color: yellow;
 }
-content
+section
 {
     background-color: #787878;
     display: block;
@@ -136,6 +132,10 @@ content
     display: block;
     padding: 10px 0 10px 200px;
     text-align: center;
+}
+#nab_bot
+{
+    margin-left: -40px;
 }
 #prix
 {
@@ -152,7 +152,7 @@ a
     left: 0;
     width: 200px;
     background-color : #D7D7D7;
-    content: "";
+    section: "";
     top: 0;
     z-index: 1;
     border-right: 2px solid #00A6AD;
@@ -292,18 +292,18 @@ a
     width: auto;
 }
 
-#produit
+.produit
 {
     border-collapse: collapse;
 }
 
-#produit .price
+.produit .price
 {
    color: #E30047;
    font-weight: bold;
 }
 
-#produit #image th
+.produit .image th
 {
     background: white;
     border: 2px solid;
@@ -312,20 +312,20 @@ a
     width: 200px
 }
 
-#produit #image th img
+.produit .image th img
 {
     width: 70%;
     height: auto;
 }
 
-#produit #image .spacer
+.produit .image .spacer
 {
     background: none;
     border: none;
     width: 5px;
 }
 
-#produit .nom
+.produit .nom
 {
     background: white;
     border-left: 2px solid;
@@ -333,7 +333,7 @@ a
     padding-top: 5px;
 }
 
-#produit tr .Achetez
+.produit tr .Achetez
 {
     background: white;
     border-left: 2px solid;
@@ -386,4 +386,10 @@ button:hover
 a:visited
 {
     color: inherit;
+}
+
+#blogo
+{
+    max-height: 200px;
+    width: auto;
 }

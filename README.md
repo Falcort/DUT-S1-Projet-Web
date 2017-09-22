@@ -1,5 +1,5 @@
 # Site web réalisé par Thibault SOUQUET
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Cours de programmation WEB
 
 ### IUT S1 - 2015

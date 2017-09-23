@@ -7,7 +7,7 @@
 ### IUT S1 - 2015
 ### Enseignant : Micheal Mrissa
 ### Site web enseignant : [ici](http://liris.cnrs.fr/~mmrissa/)
-### Lien GitHub : [ici](https://github.com/Falcort/Projet-Web/)
+### Demo : [ici](http://falcort.github.io/DUT-S1-Projet-Web/)
 
 ![Logo Animalus](https://github.com/Falcort/Projet-Web/blob/master/IMG/logo.gif?raw=true)
 #### Enoncée :

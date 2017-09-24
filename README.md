@@ -1,4 +1,4 @@
-# Site web réalisé par Thibault SOUQUET
+# Site web réalisé par [Thibault SOUQUET](https://github.com/Falcort)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub release](https://img.shields.io/github/release/Falcort/DUT-S1-Projet-Web.svg?maxAge=2592000)](https://github.com/Falcort/DUT-S1-Projet-Web/releases)
 [![W3c](https://img.shields.io/badge/W3C-passing-brightgreen.svg)](https://validator.w3.org/)

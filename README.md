@@ -11,9 +11,9 @@
 
 ![Logo Animalus](https://github.com/Falcort/Projet-Web/blob/master/IMG/logo.gif?raw=true)
 #### Enoncée :
-Réaliser un site commerciale dans HTML/CSS dans un thème choisi.
-Le site doit être responsive, c'est à dire aussi utilisable sur mobile que sur tablette et sur écran d'ordinateur.
-Interdit d'utiliser des frameworks du type Bootstrap, Materialize, etc, etc...
+Réaliser un site commerciale dans HTML/CSS dans un thème choisi.  
+Le site doit être responsive, c'est à dire aussi utilisable sur mobile que sur tablette et sur écran d'ordinateur.  
+Interdit d'utiliser des frameworks du type Bootstrap, Materialize, etc, etc...  
 Le site doit contenir :
 
 * Une page d'accueil

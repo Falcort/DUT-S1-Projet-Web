@@ -1,24 +1,38 @@
-# Site web réalisé par [Thibault SOUQUET](https://github.com/Falcort)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub release](https://img.shields.io/github/release/Falcort/DUT-S1-Projet-Web.svg?maxAge=2592000)](https://github.com/Falcort/DUT-S1-Projet-Web/releases)
-[![W3c](https://img.shields.io/badge/W3C-passing-brightgreen.svg)](https://validator.w3.org/)
-## Cours de programmation WEB
+# IUT-S1 Projet web
+## Created by [SOUQUET Thibault](https://thibaultsouquet.fr)
 
-### IUT S1 - 2015
-### Enseignant : Micheal Mrissa
-### Site web enseignant : [ici](http://liris.cnrs.fr/~mmrissa/)
-### Demo : [ici](http://falcort.github.io/DUT-S1-Projet-Web/)
+![GitHub](https://img.shields.io/github/license/Falcort/IUT-S1-Projet-Web)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Falcort/IUT-S1-Projet-Web)
+[![W3c](https://img.shields.io/badge/W3C-passing-brightgreen.svg)](https://validator.w3.org/)  
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Falcort_IUT-S1-Projet-Web&metric=alert_status)](https://sonarcloud.io/dashboard?id=Falcort_IUT-S1-Projet-Web)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Falcort_IUT-S1-Projet-Web&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=Falcort_IUT-S1-Projet-Web)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Falcort_IUT-S1-Projet-Web&metric=code_smells)](https://sonarcloud.io/dashboard?id=Falcort_IUT-S1-Projet-Web)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Falcort_IUT-S1-Projet-Web&metric=bugs)](https://sonarcloud.io/dashboard?id=Falcort_IUT-S1-Projet-Web)
 
 ![Logo Animalus](https://github.com/Falcort/Projet-Web/blob/master/IMG/logo.gif?raw=true)
-#### Enoncée :
-Réaliser un site commerciale dans HTML/CSS dans un thème choisi.  
-Le site doit être responsive, c'est à dire aussi utilisable sur mobile que sur tablette et sur écran d'ordinateur.  
-Interdit d'utiliser des frameworks du type Bootstrap, Materialize, etc, etc...  
-Le site doit contenir :
 
-* Une page d'accueil
-* Un page contenant des catégories d'articles
-* Une fausse bar de recherches
-* Un faux panier
-* Une page d'articles détaillés
-* Une page "Qui somme-nous?"
+### Created in 2017
+#### Web programming course - IUT Semester 1
+##### [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr/)
+##### Teacher : Micheal Mrissa
+##### Mark obtained : 17/20
+
+## Subject
+Realise a commercial website in HTML/CSS.  
+The website must be responsive, which mean usable on computers, but also tablets and smartphones.  
+Of course it is prohibited to use framework like Bootstraop, Materialize, ...  
+The website must contains :
+* A Hone page
+* A pages with product categories
+* A fake research bar
+* A fake shopping basket
+* A product detail page
+* A "Who are we" page
+
+## How to use
+There is an online version of the website [here](https://falcort.github.io/IUT-S1-Projet-Web/).
+
+## Useful links
+- [SonarCloud](https://sonarcloud.io/dashboard?id=Falcort_IUT-S1-Projet-Web)
+- [Demo](https://falcort.github.io/IUT-S1-Projet-Web/)

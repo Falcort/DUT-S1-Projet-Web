@@ -5,10 +5,10 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Falcort/IUT-S1-Projet-Web)
 [![W3c](https://img.shields.io/badge/W3C-passing-brightgreen.svg)](https://validator.w3.org/)  
 
-[![Quality Gate Status](https://sonar.thibaultsouquet.fr/api/project_badges/measure?project=IUT-S1-Projet-Web&metric=alert_status)](https://sonar.thibaultsouquet.fr/dashboard?id=IUT-S1-Projet-Web)
-[![Maintainability Rating](https://sonar.thibaultsouquet.fr/api/project_badges/measure?project=IUT-S1-Projet-Web&metric=sqale_rating)](https://sonar.thibaultsouquet.fr/dashboard?id=IUT-S1-Projet-Web)
-[![Code Smells](https://sonar.thibaultsouquet.fr/api/project_badges/measure?project=IUT-S1-Projet-Web&metric=code_smells)](https://sonar.thibaultsouquet.fr/dashboard?id=IUT-S1-Projet-Web)
-[![Bugs](https://sonar.thibaultsouquet.fr/api/project_badges/measure?project=IUT-S1-Projet-Web&metric=bugs)](https://sonar.thibaultsouquet.fr/dashboard?id=IUT-S1-Projet-Web)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Falcort_IUT-S1-Projet-Web&metric=alert_status)](https://sonarcloud.io/dashboard?id=Falcort_IUT-S1-Projet-Web)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Falcort_IUT-S1-Projet-Web&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=Falcort_IUT-S1-Projet-Web)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Falcort_IUT-S1-Projet-Web&metric=code_smells)](https://sonarcloud.io/dashboard?id=Falcort_IUT-S1-Projet-Web)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Falcort_IUT-S1-Projet-Web&metric=bugs)](https://sonarcloud.io/dashboard?id=Falcort_IUT-S1-Projet-Web)
 
 ![Logo Animalus](https://github.com/Falcort/Projet-Web/blob/master/IMG/logo.gif?raw=true)
 
